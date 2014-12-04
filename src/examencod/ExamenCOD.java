@@ -18,7 +18,8 @@ if (metodoMio(x))
 System.out.print(x + " ");                         	 
 }         	 
 	}
-public static boolean metodoMio(int variable){
+//No me dio tiempo a ver los valores, pero se hacer comentarios y commits.
+    public static boolean metodoMio(int variable){
 int j = 2;
 boolean aux=true;
 while ((aux) && (j!=variable)){
